@@ -20,7 +20,7 @@ Nmap Scanner is a powerful yet user-friendly network scanning tool developed usi
 Clone the project
 
 ```bash
-  git clone https://github.com/DhairyaKumarPatel/Simple-Nmap-Scanning-Tool
+  git clone https://github.com/DhairyaKumarPatel/Simple-Nmap-Scanning-Tool.git
 ```
 
 Go to the project directory
